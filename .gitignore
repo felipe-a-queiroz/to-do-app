@@ -18,3 +18,7 @@ venv/
 
 # Output
 /output/
+
+# Local files
+.initialized
+tasks.db

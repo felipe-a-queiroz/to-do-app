@@ -26,9 +26,13 @@ Para usar este programa, você precisará ter o Python 3.x instalado no seu comp
 	python src/main.py
 ```
 
+## Configuração
+
+Ao iniciar a aplicação pela primeira vez, o banco de dados será criado automaticamente. Isso pode levar alguns segundos, dependendo do desempenho do seu sistema.
+
 ## Como usar
 
-O programa irá solicitar que você adicione tarefas à lista, marque tarefas como concluídas ou remova tarefas da lista. Você pode navegar pelos menus usando as teclas de seta e pressionar Enter para selecionar uma opção.
+O programa irá solicitar que você adicione tarefas à lista, marque tarefas como concluídas ou remova tarefas da lista.
 
 ## Contribuindo
 
